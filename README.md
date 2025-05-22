@@ -41,16 +41,6 @@ python SynthesizableSpace.py
 
 ---
 
-##  Available Models
-
-- Logistic Regression, MLP, XGBoost
-- Gaussian Process Classifier (GPC)
-- Variational GPC (vGPC)
-- Optional: Semi-supervised learning via VIME
-
-You can configure model usage within `SynthesizableSpace.py`.
-
----
 
 ## 🔧 Installation & Requirements
 
