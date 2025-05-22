@@ -2,7 +2,7 @@
 
 SPACESHIP is a flexible and modular framework for autonomous material synthesis. It integrates probabilistic models with hardware-aware experimentation protocols to identify synthesizable regions in high-dimensional parameter spaces — without prior constraints.
 
-![SPACESHIP Overview](figures/SPACESHIP.png)
+![SPACESHIP Overview](Figure/SPACESHIP.png)
 
 ##  Key Features
 - **Parameter Space Definition**: Constructs the experimental parameter space by integrating chemical formulation constraints with hardware-specific capabilities.
