@@ -41,8 +41,14 @@ python SynthesizableSpace.py
 ```
 
 > Make sure to run `ParameterSpace.py` first to initialize or load experimental bounds.
-
 ---
+
+3. **Step 3** – Run Autonomous Lab on OCTOPUS:
+   
+To execute AUTONOMOUS in a real experimental setup, the code must be run within the OCTOPUS environment with the required hardware connected.
+
+For installation and environment configuration, please refer to the official OCTOPUS repository:
+https://github.com/KIST-CSRC/Octopus
 
 
 ## 🔧 Installation & Requirements
