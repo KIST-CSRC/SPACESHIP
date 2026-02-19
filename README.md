@@ -19,8 +19,9 @@ SPACESHIP/
 ├── SynthesizableSpace.py           #  – Main synthesis prediction module
 ├── BaseModel/                      # Collection of baseline and probabilistic models
 │   ├── logistic.py, mlp.py, xgboost.py
-│   ├── gpclassifier.py, vgpclassifier.py
-│   └── VIME/
+│   ├── gpclassifier.py, vgpclassifier.py, emsembleBO.py
+│   ├── TabPFN.py, VIME.py
+│   └── WideDeep_transfer.py
 ```
 
 ---
